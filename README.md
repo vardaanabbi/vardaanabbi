@@ -1,16 +1,41 @@
 # Hi 👋 I'm Vardaan
 
-🎓 B.Tech 1st Year Student at PEC Chandigarh 
-💻 Aspiring Python Developer  
-🚀 Learning Backend Development & Web Apps  
+🎓 B.Tech 2nd Year Student at PEC Chandigarh 
+💻 Aspiring Full Stack Developer  
+🚀 Learning Full Stack Development & Web Apps  
 
 ---
 
-## 🧠 About Me
-- Currently learning **Python** and building projects using **Streamlit**
-- Exploring backend logic, authentication, and databases
-- Improving problem-solving skills step by step
-- Interested in internships and learning opportunities
+⚙️ Backend Development
+
+I’ve also been exploring backend development by building a basic YouTube-like backend, where I worked on understanding how backend systems are structured and how different components interact.
+
+⸻
+
+📈 Current Focus
+
+* 🧠 Strengthening Data Structures & Algorithms
+* ⚔️ Starting Competitive Programming
+* 🌐 Improving my Full-Stack Development skills
+* 🤖 Exploring practical AI integrations
+* 🛠️ Building more projects and learning by doing
+
+  ---
+
+  🌐 Frontend Development
+
+During my second year, I started exploring the fundamentals of frontend development:
+
+* HTML
+* CSS
+* JavaScript
+
+To practice, I built several UI clones, including:
+
+* 🎬 Netflix Clone
+* 🐦 Twitter / X Clone
+
+These projects helped me understand the fundamentals of layouts, styling, responsiveness, and client-side JavaScript.
 
 ---
 
@@ -19,7 +44,13 @@
 - Streamlit  
 - SQLite  
 - Git & GitHub  
-- Backend Development (Beginner)
+- Backend Development (Intermediate)
+- HTML
+- CSS
+- JS
+- EXPRESS
+- NODE JS
+- MONGO DB
 
 ---
 
@@ -33,6 +64,14 @@
 - Maintained Security by Hashing the passwords 
 
 🔗 [View Repository](https://github.com/vardaanabbi/tasky)
+
+---
+
+## 🧠 About Me
+- Currently learning **Python** and building projects using **Streamlit**
+- Exploring backend logic, authentication, and databases
+- Improving problem-solving skills step by step
+- Interested in internships and learning opportunities
 
 ---
 
